@@ -1,8 +1,13 @@
 import React from 'react'
+import Card from './Card'
 
 function FashionOption() {
   return (
-    <div>FashionOption</div>
+    <div style={{height:"50%", backgroundColor:"yellow"}}>Today Deals
+    <Card/>
+
+    </div>
+    
   )
 }
 
