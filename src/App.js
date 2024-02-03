@@ -13,7 +13,7 @@ function App() {
         
       </Routes>
       
-      <Registration />
+      {/* <Registration /> */}
       {/* <FashionOption/> */}
     </BrowserRouter>
   );
